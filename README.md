@@ -1,6 +1,3 @@
-Here’s a detailed and professional `README.md` file you can use for your Qt-based application, which is designed for serial port communication and real-time data visualization:
-
----
 
 # Qt Serial Data Visualizer
 
@@ -21,13 +18,6 @@ A Qt-based desktop application designed for connecting to a serial device (such 
 
 ---
 
-## 📷 Preview
-
-> *Include screenshots here if available.*
-> For example:
-> ![Main Interface](screenshots/main_window.png)
-
----
 
 ## 🚀 Getting Started
 
@@ -97,13 +87,6 @@ Or use **Qt Creator** to open the `.pro` file and build the project.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙋‍♂️ Author
 
 **Your Name**
 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
